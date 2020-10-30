@@ -59,6 +59,7 @@ Start time: 7pm
 Finish time: 9pm
 
 Actual time needed to complete: one hour
+____________
 
 
 
