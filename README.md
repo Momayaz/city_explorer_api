@@ -1,5 +1,6 @@
 
-**Author**: Your Name Goes Here
+
+**Author**: Momayaz
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
@@ -23,8 +24,7 @@
 
 
 
-
-Number and name of feature: one, location
+Number and name of feature: one, database
 
 Estimate of time needed to complete: two hours
 
@@ -35,7 +35,7 @@ Finish time: 9pm
 Actual time needed to complete: one hour
 ________________________
 
-Number and name of feature: one, weather
+Number and name of feature: one, server
 
 Estimate of time needed to complete: two hours
 
@@ -45,7 +45,7 @@ Finish time: 9pm
 
 Actual time needed to complete: one hour
 ________________
-Number and name of feature: three, trails
+Number and name of feature: three, deploy
 Estimate of time needed to complete: two hours
 
 Start time: 1pm 
