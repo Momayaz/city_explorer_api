@@ -1,8 +1,5 @@
 
-
-# Project Name
-
-**Author**: Momayaz Al-Doos
+**Author**: Your Name Goes Here
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
@@ -22,7 +19,6 @@
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 -->
-
 
 
 
@@ -48,6 +44,15 @@ Start time: 7pm
 Finish time: 9pm
 
 Actual time needed to complete: one hour
+________________
+Number and name of feature: three, trails
+Estimate of time needed to complete: two hours
+
+Start time: 1pm 
+
+Finish time: 3pm
+
+Actual time needed to complete: 2hours
 ________________
 
 Number and name of feature: one, create a handle function  showing a message of error
